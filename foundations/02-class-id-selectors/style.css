@@ -1,0 +1,16 @@
+p{
+   background-color: lightpink;
+   font-family: Verdana,"DejaVu Sans", sans-serif
+}
+.even{
+  font-size: 24px;  
+}
+#second{
+    color: blue;
+    font-size: 36px;
+
+}
+#third{
+    background-color: lightgreen;
+    font-size: 24px;
+}
